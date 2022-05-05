@@ -1,0 +1,7 @@
+main: com.strangeone101.torrentredirection.TorrentRedirection
+name: TorrentRedirection
+version: ${project.version}
+api-version: 1.16
+author: StrangeOne101
+depend: [ProjectKorra]
+description: Allows torrent to be redirected

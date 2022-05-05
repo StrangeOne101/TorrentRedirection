@@ -1,5 +1,0 @@
-main: com.strangeone101.torrentredirection.TorrentRedirection
-name: TorrentRedirection
-version: 0.1
-author: StrangeOne101
-depend: [ProjectKorra]
